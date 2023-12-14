@@ -1,0 +1,113 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Programowanie\\BGRemover\\001_Source\\BgRemover\\BgRemover\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\Programowanie\\BGRemover\\001_Source\\BgRemover\\BgRemover\\obj\\Debug\\net7.0\\build-gz\\EWBS0Tgm.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\Programowanie\\BGRemover\\001_Source\\BgRemover\\BgRemover\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BgRemover.styles.css",
+      "PackagePath": "staticwebassets\\BgRemover.styles.css"
+    },
+    {
+      "Id": "D:\\Programowanie\\BGRemover\\001_Source\\BgRemover\\BgRemover\\obj\\Debug\\net7.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "D:\\Programowanie\\BGRemover\\001_Source\\BgRemover\\BgRemover\\obj\\Debug\\net7.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "D:\\Programowanie\\BGRemover\\001_Source\\BgRemover\\BgRemover\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Programowanie\\BGRemover\\001_Source\\BgRemover\\BgRemover\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Programowanie\\BGRemover\\001_Source\\BgRemover\\BgRemover\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Programowanie\\BGRemover\\001_Source\\BgRemover\\BgRemover\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\Programowanie\\BGRemover\\001_Source\\BgRemover\\BgRemover\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\Programowanie\\BGRemover\\001_Source\\BgRemover\\BgRemover\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "D:\\Programowanie\\BGRemover\\001_Source\\BgRemover\\BgRemover\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Programowanie\\BGRemover\\001_Source\\BgRemover\\BgRemover\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "D:\\Programowanie\\BGRemover\\001_Source\\BgRemover\\BgRemover\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "D:\\Programowanie\\BGRemover\\001_Source\\BgRemover\\BgRemover\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "D:\\Programowanie\\BGRemover\\001_Source\\BgRemover\\BgRemover\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "D:\\Programowanie\\BGRemover\\001_Source\\BgRemover\\BgRemover\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "D:\\Programowanie\\BGRemover\\001_Source\\BgRemover\\BgRemover\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\Programowanie\\BGRemover\\001_Source\\BgRemover\\BgRemover\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\Programowanie\\BGRemover\\001_Source\\BgRemover\\BgRemover\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "D:\\Programowanie\\BGRemover\\001_Source\\BgRemover\\BgRemover\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Programowanie\\BGRemover\\001_Source\\BgRemover\\BgRemover\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "D:\\Programowanie\\BGRemover\\001_Source\\BgRemover\\BgRemover\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BgRemover.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BgRemover.props",
+      "PackagePath": "build\\BgRemover.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BgRemover.props",
+      "PackagePath": "buildMultiTargeting\\BgRemover.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BgRemover.props",
+      "PackagePath": "buildTransitive\\BgRemover.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
